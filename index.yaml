@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  ourchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-31T09:07:06.412577242Z"
+    description: A Helm chart for Kubernetes
+    digest: 580251abb7e1c922c9d8ef74b4914183a565f02bc5dc0c6dab7ee7c909712c48
+    name: ourchart
+    type: application
+    urls:
+    - ourchart-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-31T09:07:06.413193247Z"
+    description: A Helm chart for Kubernetes
+    digest: 580251abb7e1c922c9d8ef74b4914183a565f02bc5dc0c6dab7ee7c909712c48
+    name: ourchart
+    type: application
+    urls:
+    - Helmtestrepo/ourchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-31T09:07:06.411907518Z"
